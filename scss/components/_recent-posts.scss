@@ -1,5 +1,6 @@
 .recent-posts{
     background-color: #EDF7FA;
+    padding: 0 0 32px 0;
 }
 
 .headline{
@@ -38,6 +39,7 @@
     background-color: white;
     padding: 20px;
     border-radius: 4px;
+    max-width: 418px;
 
     &_header{
         color: $dark;
