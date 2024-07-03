@@ -1,0 +1,13 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+.container {
+    width: 900px;
+    margin: 0px auto;
+    padding: 0px 15px;
+  }
+@import './components/untills/variables';
+@import './components/header';
+@import './components/recent-posts';
+@import './components/featured-works';
+@import './components/footer';
