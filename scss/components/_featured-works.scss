@@ -14,7 +14,7 @@
 .list_item {
     display: flex;
     padding: 29px 0;
-    border-bottom: 1px solid #E0E0E0;
+    border-bottom: 1px solid #e0e0e0;
 }
 
 .item_img {
@@ -34,7 +34,6 @@
     margin: 0 0 16px 0;
 }
 
-
 .item-info_data {
     margin-right: 30px;
     color: white;
@@ -47,7 +46,7 @@
     margin: 0;
     padding-right: 46px;
 
-    &-blog{
+    &-blog {
         max-width: 680px;
     }
 }
