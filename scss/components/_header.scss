@@ -28,8 +28,8 @@
     display: flex;
     padding: 160px 0 70px 0;
 }
-
 .header{
+
     &_img{
         max-height: 243px;
     }
@@ -59,4 +59,9 @@
         padding: 13px 20px;
         border: none;
         border-radius: 2px;
+        cursor: pointer;
+
+        &:hover{
+            box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.3);
+        }
     }}

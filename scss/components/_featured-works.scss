@@ -34,6 +34,7 @@
     margin: 0 0 16px 0;
 }
 
+
 .item-info_data {
     margin-right: 30px;
     color: white;
@@ -45,4 +46,8 @@
 .item-dsc {
     margin: 0;
     padding-right: 46px;
+
+    &-blog{
+        max-width: 680px;
+    }
 }
